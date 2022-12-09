@@ -33,3 +33,5 @@
 <h2> Here, have a Programming Humor</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
