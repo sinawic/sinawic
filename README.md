@@ -34,4 +34,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
+![sinawic](https://github-readme-stats.vercel.app/api/top-langs?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
+
+![sinawic](https://github-readme-streak-stats.herokuapp.com/?user=mohammadtz&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)
