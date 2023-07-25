@@ -41,6 +41,7 @@
 
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
 <img align="left" alt="gitlab" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
+<img align="left" alt="nodejs" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
