@@ -6,6 +6,7 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
+![visitors](https://komarev.com/ghpvc/?username=sinawic&style=flat-square)
 
 </p>
 <div size='20px'> Hi! My name is Sinawic. Thank You for taking the time to view my GitHub Profile :smile: 
