@@ -36,7 +36,6 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 <img align="left" alt="Elasticsearch" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Github Actions" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
 
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
