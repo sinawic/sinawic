@@ -17,11 +17,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My DevOps Skills
+- 🔭 I’m a DevOps Engineer
 
-- 🌱 I’m currently learning Blockchain Tech 
-
-- 👯 I’m looking to collaborate on Projects 
+- 🌱 I’m currently learning AI Tech 
 
 - 💬 Talk to me about DevOps, JavaScript, Freelancing Opportunites, Open Source 
 
