@@ -58,6 +58,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-![sinawic](https://github-readme-stats.vercel.app/api/top-langs?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
+<img width="45%" align="left" alt="sinawic" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" />
 
-![sinawic](https://github-readme-stats.vercel.app/api?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
+<img width="45%" align="right" alt="sinawic" src="https://github-readme-stats.vercel.app/api?username=sinawic&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+
+
