@@ -8,6 +8,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
 ![visitors](https://komarev.com/ghpvc/?username=sinawic&style=flat-square)
 
+- visitor: <img align="center" height="30px" src="https://profile-counter.glitch.me/sinawic/count.svg" />
+
 </p>
 <div size='20px'> Hi! My name is Sinawic. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -52,6 +54,7 @@
 <br />
 
 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sinawic&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 
 
 <h2> Here, have a Programming Humor</h2>
